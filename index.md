@@ -34,7 +34,7 @@ feature_row:
 <!-- Left: Bio Photo -->
 <img src="/assets/images/bio-photo.jpg"
      alt="Katiku Munyao"
-     style="width: 400px; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); flex-shrink: 0;" />
+     style="width: 400px; border-radius: 6px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); flex-shrink: 0;margin-top: 30px;" />
 
 <!-- Right: Intro Text -->
 <div style="flex: 1; min-width: 260px;" markdown="1">
