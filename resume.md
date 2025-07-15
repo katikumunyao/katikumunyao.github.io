@@ -104,4 +104,4 @@ permalink: /resume/
 ---
 
 ### Download Resume
-[📥 Download my latest resume (PDF)](/assets/Katiku_Munyao_resume.pdf)
+[📥 Download my latest resume (PDF)](/assets/Katiku_Munyao_Resume.pdf)
