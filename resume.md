@@ -13,9 +13,15 @@ permalink: /resume/
 ---
 
 ### 💼 Professional Experience
+#### **M-PESA AFRICA** — *Service Observability Engineering Intern*
+ *July 2025 - Present (Nairobi, Kenya)*
+
+- Leading full-stack development of Service Operation Acceleration Portal (SOAP) using Node.js, Python, and React.js to streamline service operations and enhance data-driven decision-making across M-PESA Africa through real-time dashboards and KPI visualization
+- Designing and implementing enterprise monitoring infrastructure while integrating Grafana, Dynatrace, ELK Stack, and Datadog to track system performance, configure critical alert thresholds, and apply machine learning models for anomaly detection and operational forecasting
+- Collaborating in cross-functional agile teams throughout the complete development lifecycle, conducting User Acceptance Testing, stakeholder demos, and maintaining comprehensive technical documentation while ensuring successful production deployment and knowledge transfer
 
 #### **Cyber Shujaa Program** — *Security Engineering Scholarship*  
-*April 2025 – Present (Nairobi, Kenya)*
+*April 2025 – August 2025 (Nairobi, Kenya)*
 
 - Developed expertise in cloud security governance, identity management, and compliance within Microsoft Azure environments.
 - Prepared extensively for Microsoft SC-900 and AZ-104 certifications, focusing on security compliance auditing and operational security controls.
@@ -98,4 +104,4 @@ permalink: /resume/
 ---
 
 ### Download Resume
-[📥 Download my latest resume (PDF)](/assets/resume.pdf)
+[📥 Download my latest resume (PDF)](/assets/Katiku_Munyao_resume.pdf)
